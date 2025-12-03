@@ -12,7 +12,7 @@ cout<<j+1;
    }
     cout<<endl;
    }
-}
+}mdmmdmdm
 //git
 //version 
 //status
